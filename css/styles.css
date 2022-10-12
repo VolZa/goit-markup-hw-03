@@ -247,7 +247,7 @@ section {
  }
  .team__img {
   display: block;
-  outline: 2px solid tomato;
+  /* outline: 2px solid tomato; */
  }
  .team__subtitle {
   font-weight: 500;
